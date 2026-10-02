@@ -1,3 +1,8 @@
+# Cathedral at the Bazar
+## Paper by Ben
+### Table of contents
+* paper
+
 Eric S. Raymond presented The Cathedral and the Bazaar at a Linux conference in 1997
 and later expanded it into a book. After studying how Linus Torvalds ran Linux, he wrote his
 own program fetchmail through using the same approach. The essay is credited with convincing
