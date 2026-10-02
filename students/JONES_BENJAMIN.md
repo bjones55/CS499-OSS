@@ -1,7 +1,18 @@
 # Cathedral at the Bazar
-## Paper by Ben
-### Table of contents
-* paper
+## 1. General Information
+* **Document Type:** Event Brief & Logistics
+* **Status:** Final Draft
+* **Date:** October 2, 2026
+
+## 2. Venue Section
+* **Venue Name:** Grand Horizon Convention Center
+* **Address:** 500 Enterprise Way, Suite 100, Rincon Valley, AZ, 85747
+* **Capacity:** 500 Attendees
+* **Contact:** Event Operations Team (ops@grandhorizon.com)
+
+## 3. Page Information & Layout Constraints
+* **Target Layout:** Standard Letter / A4 Printable Document
+* **Page Budget:** Budgeted for 3 Pages Max
 
 Eric S. Raymond presented The Cathedral and the Bazaar at a Linux conference in 1997
 and later expanded it into a book. After studying how Linus Torvalds ran Linux, he wrote his
